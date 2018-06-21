@@ -1,7 +1,7 @@
 /**
  * 
  */
-package src.main.java.com.migu.schedule;
+package com.migu.schedule;
 
 import java.util.List;
 
